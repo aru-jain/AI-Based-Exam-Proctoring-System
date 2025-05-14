@@ -15,8 +15,8 @@ app.secret_key = 'nirixa_secret'
 db = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="A964696r.",
-    database="nirixa_db"
+    password="######",
+    database="####_db"
 )
 cursor = db.cursor()
 
